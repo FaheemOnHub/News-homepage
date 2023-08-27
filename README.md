@@ -3,7 +3,7 @@
 
                                                  [NEWS HOMEPAGE](https://faheemonhub.github.io/News-homepage/)
 
-[LIVE](https://faheemonhub.github.io/News-homepage/) | SOLUTION | [CHALLENGE](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
+[LIVE](https://faheemonhub.github.io/News-homepage/) | [SOLUTION] (https://www.frontendmentor.io/solutions/modern-responsive-styling-harmonious-hues-and-adaptive-layouts-iKykZNRM1V) | [CHALLENGE](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC).
 
