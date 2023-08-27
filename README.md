@@ -1,4 +1,5 @@
-<img width="1440" alt="project-preview" src="https://github.com/FaheemOnHub/News-homepage/assets/35933338/421d5076-12bc-464a-bceb-25424a96522d">
+<img width="1440" alt="Screenshot 2023-08-27 at 6 02 34 PM" src="https://github.com/FaheemOnHub/News-homepage/assets/35933338/fbbf06bc-5c70-4192-83b5-bc1b86a64976">
+
 
                                                  [NEWS HOMEPAGE](https://faheemonhub.github.io/News-homepage/)
 
